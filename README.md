@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://linkedin.com/in/aditya-mishra0902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-mishra0902" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mishra.aditya1352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mishra.aditya1352" height="30" width="40" /></a>
 <a href="https://instagram.com/_.adityamishra_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.adityamishra_._" height="30" width="40" /></a>
